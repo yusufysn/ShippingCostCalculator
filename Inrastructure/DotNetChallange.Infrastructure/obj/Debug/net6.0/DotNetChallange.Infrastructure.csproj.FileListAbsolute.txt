@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\bin\Debug\net6.0\DotNetChallange.Infrastructure.deps.json
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\bin\Debug\net6.0\DotNetChallange.Infrastructure.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\bin\Debug\net6.0\DotNetChallange.Infrastructure.pdb
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\DotNetChallange.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\DotNetChallange.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\DotNetChallange.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\DotNetChallange.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\DotNetChallange.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\DotNetChallange.Infrastructure.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\refint\DotNetChallange.Infrastructure.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\DotNetChallange.Infrastructure.pdb
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Inrastructure\DotNetChallange.Infrastructure\obj\Debug\net6.0\ref\DotNetChallange.Infrastructure.dll

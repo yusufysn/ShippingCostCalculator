@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BJvpGiCVxaFDPyvSvTaeDnTNSmQZPl+cLF6UiLCWDPA=",
+  "Source": "DotNetChallange.API",
+  "BasePath": "_content/DotNetChallange.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

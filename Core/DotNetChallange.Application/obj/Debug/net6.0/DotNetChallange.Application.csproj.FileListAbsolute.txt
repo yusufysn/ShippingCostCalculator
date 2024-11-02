@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\bin\Debug\net6.0\DotNetChallange.Application.deps.json
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\bin\Debug\net6.0\DotNetChallange.Application.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\bin\Debug\net6.0\DotNetChallange.Application.pdb
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\bin\Debug\net6.0\DotNetChallange.Domain.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\bin\Debug\net6.0\DotNetChallange.Domain.pdb
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\DotNetChallange.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\DotNetChallange.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\DotNetChallange.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\DotNetChallange.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\DotNetChallange.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\DotNetChallange.Application.csproj.CopyComplete
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\DotNetChallange.Application.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\refint\DotNetChallange.Application.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\DotNetChallange.Application.pdb
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Application\obj\Debug\net6.0\ref\DotNetChallange.Application.dll

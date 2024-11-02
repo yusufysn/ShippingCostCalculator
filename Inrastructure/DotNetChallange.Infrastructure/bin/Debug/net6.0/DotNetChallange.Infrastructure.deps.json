@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotNetChallange.Infrastructure/1.0.0": {
+        "runtime": {
+          "DotNetChallange.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetChallange.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\bin\Debug\net6.0\DotNetChallange.Domain.deps.json
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\bin\Debug\net6.0\DotNetChallange.Domain.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\bin\Debug\net6.0\DotNetChallange.Domain.pdb
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\DotNetChallange.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\DotNetChallange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\DotNetChallange.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\DotNetChallange.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\DotNetChallange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\DotNetChallange.Domain.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\refint\DotNetChallange.Domain.dll
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\DotNetChallange.Domain.pdb
+C:\Users\DELL\Desktop\Enoca\DotNetChallange\Core\DotNetChallange.Domain\obj\Debug\net6.0\ref\DotNetChallange.Domain.dll
